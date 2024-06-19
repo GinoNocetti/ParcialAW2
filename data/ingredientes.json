@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Sal"
+  },
+  {
+    "id": 2,
+    "name": "Azucar"
+  },
+  {
+    "id": 3,
+    "name": "Pimienta"
+  },
+  {
+    "id": 4,
+    "name": "Almibar"
+  },
+  {
+    "id": 5,
+    "name": "Harina"
+  },
+  {
+    "id": 6,
+    "name": "Miel"
+  },
+  {
+    "id": 7,
+    "name": "Aceitunas"
+  },
+  {
+    "id": 8,
+    "name": "Azucar Impalpable"
+  }
+]
